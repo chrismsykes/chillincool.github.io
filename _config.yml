@@ -68,6 +68,7 @@ netease_comment: false
 # Google Analytics
 ga_track_id: "G-6MBEC1941M" # Format: UA-xxxxxx-xx
 ga_domain: blog.chillincool.net
+ga_measurement_id: "G-6MBEC1941M"
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
