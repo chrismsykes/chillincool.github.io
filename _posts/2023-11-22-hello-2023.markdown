@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello 2023"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2023-11-22 12:00:00
-author:     "Hux"
+author:     "chillincool"
 header-img: "img/bg-walle.jpg"
 catalog: true
 tags:

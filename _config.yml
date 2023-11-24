@@ -66,7 +66,6 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "G-6MBEC1941M" # Format: UA-xxxxxx-xx
 ga_domain: blog.chillincool.net
 ga_measurement_id: "G-6MBEC1941M"
 
